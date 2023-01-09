@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeePicker.Server", "CoffeePicker\Server\CoffeePicker.Server.csproj", "{DFD7AC1C-B3AB-4B92-BDDC-4486B179B858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeePicker.Server", "CoffeePicker\Server\CoffeePicker.Server.csproj", "{DFD7AC1C-B3AB-4B92-BDDC-4486B179B858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeePicker.Client", "CoffeePicker\Client\CoffeePicker.Client.csproj", "{9CE16FFC-1651-4EED-9F39-6778E3EDCE0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeePicker.Client", "CoffeePicker\Client\CoffeePicker.Client.csproj", "{9CE16FFC-1651-4EED-9F39-6778E3EDCE0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeePicker.Shared", "CoffeePicker\Shared\CoffeePicker.Shared.csproj", "{090B9778-32DA-40E3-8359-2E7D1E575A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeePicker.Shared", "CoffeePicker\Shared\CoffeePicker.Shared.csproj", "{090B9778-32DA-40E3-8359-2E7D1E575A8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

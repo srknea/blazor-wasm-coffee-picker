@@ -1,0 +1,12 @@
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\bin\Debug\net6.0\CoffeePicker.Shared.deps.json
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\bin\Debug\net6.0\CoffeePicker.Shared.dll
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\bin\Debug\net6.0\CoffeePicker.Shared.pdb
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.dll
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\refint\CoffeePicker.Shared.dll
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\CoffeePicker.Shared.pdb
+C:\Users\Serkan\Desktop\CoffeePicker\CoffeePicker\Shared\obj\Debug\net6.0\ref\CoffeePicker.Shared.dll
