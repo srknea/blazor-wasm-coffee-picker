@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
       "CoffeePicker.Shared.dll": "sha256-b7XUR\/xSTqedQyYlQrZXd4KSnJEcxN+LuIVOe5ISom8=",
-      "CoffeePicker.Client.dll": "sha256-ppZ1a7PtQAbggyfwlb2vqbnwbBDAI6n3Jbh34vRXcmk="
+      "CoffeePicker.Client.dll": "sha256-bbdN1r6yGKIM\/lGicZw7QAsKbCPYSuOqVVnlg1ZJSME="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "CoffeePicker.Shared.pdb": "sha256-bKY1I6DH7G5DGAiqykSUP6S0cItirJgR1RQDYU\/1DuY=",
-      "CoffeePicker.Client.pdb": "sha256-CSolwW3plsV\/8dIXpnSdWb7d7rI+NpmYm9ZlKLozeWk="
+      "CoffeePicker.Client.pdb": "sha256-rG4FQO6JPZxZwW9oq2XUIiygcICoPsqjHEcPEx2pBoQ="
     },
     "runtime": {
       "dotnet.6.0.12.r9wzpzztqj.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
