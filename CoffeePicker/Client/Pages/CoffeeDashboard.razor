@@ -3,6 +3,22 @@
 @using CoffeePicker.Shared
 
 <h3>Coffee Dashboard</h3>
+
+<ul>
+    @foreach (var coffee in Coffees)
+    {
+        <li>@coffee.Title</li>
+    }
+</ul>
+
+
 @code {
+    private List<Coffee> Coffees = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Coffees = await HttpClient.GetFromJsonAsync<List<Coffee>>("Coffee/List");
+    }
+
 
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lhzPX2TOn9t2flrXXozcAq9lIsfgTEGqvsty7Uhn6yzV6p4nYB++O7N8EZhS0xlSjbuZ8qmP9e9kjLgC6VPXhQ==",
+  "dgSpecHash": "jfUT4usTs5KSXtK8Ik8qYkSawBx2sqS6yqo/0TFddAlwipec4w/eAde8OubqHtoo914n8G7bg+mEobM8XbQzkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\Serkan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.10.nupkg.sha512"
+    "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
