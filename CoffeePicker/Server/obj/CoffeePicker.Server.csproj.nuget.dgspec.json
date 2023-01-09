@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Server\\CoffeePicker.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj",
+        "projectName": "CoffeePicker.Client",
+        "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj": {
+                "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.10, 6.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Server\\CoffeePicker.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Server\\CoffeePicker.Server.csproj",
+        "projectName": "CoffeePicker.Server",
+        "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Server\\CoffeePicker.Server.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj": {
+                "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Client\\CoffeePicker.Client.csproj"
+              },
+              "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj": {
+                "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj",
+        "projectName": "CoffeePicker.Shared",
+        "projectPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\CoffeePicker.Shared.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serkan\\Desktop\\CoffeePicker\\CoffeePicker\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
